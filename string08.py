@@ -6,4 +6,5 @@ def main(s):
     Returns:
         str: answer
     """
-    return
+    n = s.split()
+    return len(n)
